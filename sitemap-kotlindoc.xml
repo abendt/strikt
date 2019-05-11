@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://strikt.io/strikt/api</loc>
+        <lastmod>2019-05-11T01:29:29.579928</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/Assertion</loc>
+        <lastmod>2019-05-11T01:29:29.564504</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/Assertion/Builder</loc>
+        <lastmod>2019-05-11T01:29:29.540648</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/CompoundAssertion</loc>
+        <lastmod>2019-05-11T01:29:29.549461</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/CompoundAssertions</loc>
+        <lastmod>2019-05-11T01:29:29.552236</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/AtomicAssertion</loc>
+        <lastmod>2019-05-11T01:29:29.556141</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/ExpectationBuilder</loc>
+        <lastmod>2019-05-11T01:29:29.562739</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/api/DescribeableBuilder</loc>
+        <lastmod>2019-05-11T01:29:29.566726</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/protobuf</loc>
+        <lastmod>2019-05-11T01:29:29.574683</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/jackson</loc>
+        <lastmod>2019-05-11T01:29:29.576941</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/assertions</loc>
+        <lastmod>2019-05-11T01:29:29.590508</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/time</loc>
+        <lastmod>2019-05-11T01:29:29.591775</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    <url>
+        <loc>https://strikt.io/strikt/spring</loc>
+        <lastmod>2019-05-11T01:29:29.595724</lastmod>
+        <priority>0.0</priority>
+        
+    </url>
+    
+</urlset>
